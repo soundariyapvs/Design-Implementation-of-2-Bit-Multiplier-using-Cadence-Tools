@@ -1,5 +1,4 @@
-# Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
-Ex No: 05     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
+# EX.NO:06 Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools 
 
 Aim:
 To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simulate its functionality, and to understand its application in digital arithmetic operations.
@@ -65,7 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+ ![Screenshot (24)](https://github.com/user-attachments/assets/2435bdd3-0654-41cf-9787-083b314ced7d)
+
 
 
 
@@ -80,7 +80,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![Screenshot (21)](https://github.com/user-attachments/assets/aa4b37c6-49a6-45d4-8324-a9738baafff6)
+
 
  
 
